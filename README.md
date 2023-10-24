@@ -1,2 +1,2 @@
 # Projeto-Calculadora
-Criando um relógio do zero
+Criando uma calculadora do zero
